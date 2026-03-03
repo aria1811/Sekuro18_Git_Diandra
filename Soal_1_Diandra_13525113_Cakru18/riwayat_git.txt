@@ -1,0 +1,6 @@
+*   b96a0d9 fix: merge conflict v1 dan v2
+|\  
+| * b2f990b versi 1
+* | 86a03cc versi 2
+|/  
+* fb4de28 inisiasi github
